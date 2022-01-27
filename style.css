@@ -3,8 +3,6 @@ body{
 }
 #canvas1 {
     position: absolute;
-    border: 2px solid black;
-    background: blue;
     top: 0;
     left: 0;
     width: 100%;
